@@ -1,0 +1,4 @@
+executar todos os testes completos:
+    bundle exec cucumber
+executar um teste especifico: @temp no arquivo catalogo.feature
+    bundle exec cucumber -t @temp
